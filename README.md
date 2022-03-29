@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+I'm a software developer who loves and believes deeply in the web. I enjoy reviving old software and services and giving them a second life.
+
+- 🔭 I’m currently working on writing an [OSCAR/AIM server](https://github.com/ox/aim-oscar-server) to facilitate chatting between old AIM clients. I have a hosted service called [runningman.network](https://runningman.network/).
+
 <!--
 **ox/ox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
